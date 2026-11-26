@@ -1,0 +1,8 @@
+/frontend/node_modules/
+/frontend/dist/
+/build/
+/third_party/m1ddc/.objects/
+/third_party/m1ddc/m1ddc
+/pnpm-cache/
+.pnpm-debug.log*
+.DS_Store
